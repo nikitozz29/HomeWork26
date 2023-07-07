@@ -1,1 +1,1 @@
-"Домашнее задание 26. gitignore и откат коммита" 
+"Home work 26. gitignore and commit back" 
